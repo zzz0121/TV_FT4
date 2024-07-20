@@ -6,6 +6,7 @@
 
   在看电视直播软件中直接输入以下任一地址即可：
   
+      https://ghproxy.net/raw.githubusercontent.com/zzz0121/TV_FT4/main/itvlist.txt
       https://ghproxy.net/https://raw.githubusercontent.com/zzz0121/TV_FT4/main/itvlist.txt
       https://cdn.jsdelivr.net/gh/zzz0121/TV_FT4/itvlist.txt
       https://raw.githubusercontent.com/zzz0121/TV_FT4/main/itvlist.txt
